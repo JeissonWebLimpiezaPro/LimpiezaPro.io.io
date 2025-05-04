@@ -1,0 +1,84 @@
+[
+  {
+    "id": "tatoo 01",
+    "titulo": "Lavado y Desinfección de Muebles Tapizados.",
+    "imagen": "./img/servicio 1.jpg",
+    "categoria": {
+      "nombre": "Tatoo",
+      "id": "todos"
+    }
+  },
+
+  {
+    "id": "tattoo 02",
+    "titulo": " Limpieza de Alfombras y Tapetes.",
+    "imagen": "./img/servicio 2.png",
+    "categoria": {
+      "nombre": "Tatoo",
+      "id": "todos"
+    }
+  },
+  {
+    "id": "tattoo 03",
+    "titulo": " Lavado de Cortinas y Persianas.",
+    "imagen": "./img/servicio 3.jpg",
+    "categoria": {
+      "nombre": "Tatto",
+      "id": "todos"
+    }
+  },
+  {
+    "id": "tattoo 04",
+    "titulo": "Lavado de Colchones y Desinfección Antibacteriana",
+    "imagen": "./img/servicio 4.png",
+    "categoria": {
+      "nombre": "Tatoo",
+      "id": "todos"
+    }
+  },
+  {
+    "id": "tattoo 05",
+    "titulo": "Servicio de Limpieza de Terrazas y Muebles de Exterior.",
+    "imagen": "./img/servicio 5.webp",
+    "categoria": {
+      "nombre": "Tatoo",
+      "id": "todos"
+    }
+  },
+  {
+    "id": "tattoo 06",
+    "titulo": "Lavado de fachadas residenciales.",
+    "imagen": "./img/servicio 6.jpeg",
+    "categoria": {
+      "nombre": "Tatoo",
+      "id": "todos"
+    }
+  },
+  {
+    "id": "tattoo 07",
+    "titulo": "Limpieza de fachadas comerciales.",
+    "imagen": "./img/servicio 7.jpg",
+    "categoria": {
+      "nombre": "Tatoo",
+      "id": "todos"
+    }
+  },
+  {
+    "id": "tattoo 08",
+    "titulo": "Lavado de techos y tejados.",
+    "imagen": "./img/servicio 8.avif",
+    "categoria": {
+      "nombre": "Tatoo",
+      "id": "todos"
+    }
+  },
+  {
+    "id": "tattoo 09",
+    "titulo": "Lavado interior y exterior de carros y buses.",
+    "imagen": "./img/servicio 10.jpg",
+    "categoria": {
+      "nombre": "Tatoo",
+      "id": "todos"
+    }
+  }
+]
